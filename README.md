@@ -1,3 +1,3 @@
 # Proiect
-Sait Personal
-Vitalic,Caraman,Danian
+Site Personal
+Vitalie,Grigore,Danian
